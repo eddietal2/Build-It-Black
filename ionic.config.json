@@ -1,0 +1,7 @@
+{
+  "name": "BIB",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
